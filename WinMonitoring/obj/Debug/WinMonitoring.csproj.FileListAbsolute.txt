@@ -1,0 +1,6 @@
+C:\Users\ali\Desktop\WinMonitoring\WinMonitoring\bin\Debug\WinMonitoring.exe.config
+C:\Users\ali\Desktop\WinMonitoring\WinMonitoring\bin\Debug\WinMonitoring.exe
+C:\Users\ali\Desktop\WinMonitoring\WinMonitoring\bin\Debug\WinMonitoring.pdb
+C:\Users\ali\Desktop\WinMonitoring\WinMonitoring\obj\Debug\WinMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\ali\Desktop\WinMonitoring\WinMonitoring\obj\Debug\WinMonitoring.exe
+C:\Users\ali\Desktop\WinMonitoring\WinMonitoring\obj\Debug\WinMonitoring.pdb

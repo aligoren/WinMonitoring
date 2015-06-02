@@ -1,0 +1,38 @@
+Win32_BaseBoard: Mother board or System Board
+Win32_Battery: System Battery
+Win32_BIOS: System BIOS
+Win32_Bus: Physical System Bus
+Win32_CDROMDrive: System Optical Drives
+Win32_DiskDrive: System Disks
+Win32_DMAChannel: System DMA Channels
+Win32_Fan: System Fan
+Win32_FloppyController: System Floppy Controllers
+Win32_FloppyDrive: System Floppy Drives
+Win32_IDEController: System IDE Controllers
+Win32_IRQResource: System IRQ Resources
+Win32_Keyboard: System Keyboard
+Win32_MemoryDevice: System Memory
+Win32_NetworkAdapter: Network Adapters
+Win32_NetworkAdapterConfiguration: Adapter configuration
+Win32_OnBoardDevice: Common Devices built into the System board
+Win32_ParallelPort: The Parallel ports
+Win32_PCMCIAController: The PCMCIA Laptop bus
+Win32_PhysicalMedia: Storage Media such as tapes, etc.
+Win32_PhysicalMemory: The physical memory device
+Win32_PortConnector: Physical ports such as DB-25 pin male, PS/2, etc.
+Win32_Bus: Physical System Bus
+Win32_PortResource: I/O ports on a system
+Win32_POTSModem: Plain Old Telephone System Modem Devices
+Win32_Processor: Processor specifications
+Win32_SCSIController: System SCSI bus
+Win32_SerialPorts: Serial Ports
+Win32_SerialPortConfiguration: Port Configuration
+Win32_SoundDevice: Sound Devices
+Win32_SystemEnclosure: System Details
+Win32_TapeDrive: Physical Tape Drives
+Win32_TemperatureProbe: Heat Statistics
+Win32_UninterruptiblePowerSupply: UPS details
+Win32_USBController: USB Controller on a system
+Win32_USBHub: USB Hub
+Win32_VideoController: Physical Video Controller
+Win32_VoltageProbe: Voltage Statistics
